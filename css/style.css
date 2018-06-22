@@ -316,7 +316,7 @@ nav ul li a {
 }
 
 #about .div-img-bg {
-  padding: 30px 0 0 0;
+  padding: 40px 20px 0 0;
   border: 20px solid #a6f699;
 }
 
@@ -324,7 +324,7 @@ nav ul li a {
   width: 100%;
   box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
   margin-top: -60px;
-  margin-left: 60px;
+  margin-left: 40px;
   height: 400px;
   object-fit: cover;
 }
