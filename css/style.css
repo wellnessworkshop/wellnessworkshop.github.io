@@ -329,6 +329,7 @@ nav ul li a {
   height: auto;
   background: #fff;
   padding-top: 190px;
+  padding-left: 60px;
 }
 
 #about .div-img-bg {
@@ -349,7 +350,7 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
-  padding: 30px 30px 30px 60x;
+  padding: 30px 30px 30px 60px;
 }
 
 #about .about-descr .separator {
