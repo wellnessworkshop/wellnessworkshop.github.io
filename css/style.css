@@ -348,14 +348,15 @@ nav ul li a {
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
-  text-align: right;
-  padding: 30px;
+  text-align: left;
+  padding: 30px 30px 30px 60x;
 }
 
 #about .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
+  padding-left: 60px;
 }
 
 /*-----------------------------------------------------------------------------------*/
