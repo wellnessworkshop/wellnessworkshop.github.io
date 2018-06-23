@@ -345,6 +345,10 @@ nav ul li a {
   height: 200px;
   object-fit: cover;
 }
+
+#about .about-descr .h1 {
+  padding-left: 60px;
+}
 	
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
