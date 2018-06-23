@@ -354,7 +354,7 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
-  padding: 30px 30px 30px 60px;
+  padding-left: 60px;
 }
 
 #about .about-descr .separator {
