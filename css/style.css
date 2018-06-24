@@ -531,7 +531,7 @@ nav ul li a {
     float: left;
     width:  640px;
     height: 480px;
-    background-position: 50% 50%;
+ /*   background-position: 50% 50%; */
     background-repeat:   no-repeat;
   /*  background-size:     cover; */
   /* taken from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css
