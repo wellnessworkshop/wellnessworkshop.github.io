@@ -527,7 +527,7 @@ nav ul li a {
 .journal-block .journal-info img {
   max-width: 100%;
   /*border-radius: 50%;*/
-   position: relative;
+ /*  position: relative; */
     float: left;
     width:  640px;
     height: 480px;
