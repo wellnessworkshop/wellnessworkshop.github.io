@@ -531,14 +531,7 @@ nav ul li a {
   max-height:480px;
   width: auto;
   height: auto;
-  /*border-radius: 50%;*/
-   /*position: relative; 
-    float: left;*/
-    /*width:  640px;
-    height: 480px;*/
- /*   background-position: 50% 50%; */
-   /* background-repeat:   no-repeat;
-    background-size:     cover; 
+   
   /* taken from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css
   width:100px;
   height:100px;
