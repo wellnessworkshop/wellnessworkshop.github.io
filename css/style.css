@@ -525,8 +525,8 @@ nav ul li a {
 }
 
 .journal-block .journal-info img {
-   /*max-width: 100%; 
-	display: block; */
+   max-width: 100%; 
+  display: block; 
   max-width:640px;
   max-height:480px;
   width: auto;
