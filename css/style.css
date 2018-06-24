@@ -527,7 +527,8 @@ nav ul li a {
 
 .journal-block .journal-info img {
  
-    max-width: 100%;
+    max-width: 640;
+	max-height: 480;
 /*    border-radius: 50%; */
    width: auto;
    height: auto;
