@@ -527,8 +527,8 @@ nav ul li a {
 .journal-block .journal-info img {
  max-width: 100%;
   /*border-radius: 50%;*/
-  width:640px;
-  height:480px;
+  max-width:640px;
+  max-height:480px;
   /* taken from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css
   width:100px;
   height:100px;
