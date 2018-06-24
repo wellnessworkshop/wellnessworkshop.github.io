@@ -345,6 +345,7 @@ nav ul li a {
   margin-left: 30px;
   height: 200px;
   object-fit: cover;
+  border-radius: 50%;
 }
 
 #about .about-descr .p-title {
@@ -525,12 +526,12 @@ nav ul li a {
 
 .journal-block .journal-info img {
   max-width: 100%;
-  border-radius: 50%;
-  /* taken from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css */
+  /*border-radius: 50%;
+  /* taken from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css
   width:100px;
   height:100px;
-/*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
-  object-fit:scale-down;
+/*Scale down will take the necessary specified space that is 100px x 100px without stretching the image
+  object-fit:scale-down;*/
 }
 
 .journal-block .journal-info .journal-txt {
