@@ -528,9 +528,9 @@ nav ul li a {
   max-width: 100%;
   /*border-radius: 50%;*/
    position: relative; 
-    float: left;
-    width:  100px;
-    height: 100px;
+    float: center;
+    width:  640px;
+    height: 480px;
  /*   background-position: 50% 50%; */
     background-repeat:   no-repeat;
     background-size:     cover; 
