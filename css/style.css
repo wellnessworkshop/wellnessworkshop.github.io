@@ -525,6 +525,7 @@ nav ul li a {
 
 .journal-block .journal-info img {
   max-width: 100%;
+  border-radius: 50%;
 }
 
 .journal-block .journal-info .journal-txt {
